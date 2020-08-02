@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-import { StyledImage } from 'style';
+import { StyledImage } from './style';
 
 interface Props {
   src: string;
