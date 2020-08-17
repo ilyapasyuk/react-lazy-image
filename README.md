@@ -12,7 +12,7 @@ Simple lazy loader for React.js
 
 ### Installation
 
-* `npm install --react-lazy-image-loader`
+* `npm install react-lazy-image-loader -S`
 * `yarn add react-lazy-image-loader`
 
 ### How To Use
